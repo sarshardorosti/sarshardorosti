@@ -2,13 +2,10 @@
 
 **PhD Researcher** @ Ulster University | **AI**, **BCI**, **HCI**, and **XR** Enthusiast  
 🎓 **Education**:  
-- **PhD**: Immersive Generative Environments, Ulster University (2024-2027)  
+- 🔭 **PhD**: Immersive Generative Environments, Ulster University (2024-2027)  
 - **MSc Artificial intelligence**, **MA Animation**, **BA Architecture**
 
 ---
-
-## 🔭 Current Work  
-- PhD Thesis: _Adaptive XR Environments Using Fractals, EEG, and ECG for Cognitive Enhancement_  
 
 ## 🌱 Learning  
 - EEG/ECG Data Analysis | Unity & Unreal Engine | Generative Systems  
