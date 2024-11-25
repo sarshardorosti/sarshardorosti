@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarshar Dorosti!
 
-<!--
-**sarshardorosti/sarshardorosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Researcher** @ Ulster University | **AI**, **BCI**, **HCI**, and **XR** Enthusiast  
+🎓 **Education**:  
+- **PhD**: Immersive Generative Environments, Ulster University (2024-2027)  
+- **MSc AI**: Bournemouth University (Distinction)  
+- **MA Animation**: Tehran University (Distinction)  
+- **BA Architecture**: Kamalolmolk University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Work  
+- PhD Thesis: _Adaptive XR Environments Using Fractals, EEG, and ECG for Cognitive Enhancement_  
+
+## 🌱 Learning  
+- EEG/ECG Data Analysis | Unity & Unreal Engine | Generative Systems  
+
+## 👯 Collaboration Interests  
+- **Interactive BCI & HCI Projects** | **Therapeutic VR Applications**  
+
+## 🤔 Looking for Help With  
+- Real-time **EEG/ECG Integration** | **Generative AI Models**  
+
+---
+
+## 💬 Ask Me About  
+- AI in Neuroscience | Serious Games | Adaptive XR Systems  
+
+---
+
+## 🛠️ Skills  
+- **Programming**: Python, C#, MATLAB  
+- **Libraries**: PyTorch, TensorFlow, OpenCV  
+- **Game Engines**: Unity, Unreal Engine  
+- **Hardware**: EEG Devices, VR Headsets  
+
+---
+
+## ⚡ Fun Fact  
+- Ping pong 🏓 | Chess ♟️ | Exploring mental strategies  
+
+---
+
+## 📬 Contact  
+- [Website](https://www.sarshardorosti.com) | [GitHub](https://github.com/sarshardorosti) | [PURE Profile](https://pure.ulster.ac.uk/en/persons/sarshar-dorosti)  
