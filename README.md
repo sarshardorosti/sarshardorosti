@@ -11,5 +11,4 @@
 | 🛠️ **Libraries**      | PyTorch, TensorFlow, OpenCV                                                                     |
 | 🛠️ **Tools**          | Unity, Unreal Engine, EEG Devices, VR Headsets                                                  |
 | ⚡ **Fun Fact**        | Table Tennis 🏓 \| Chess ♟️ \| Mental Strategies                                                 |
-| 📬 **Contact**        | 🌐 [Website](https://www.sarshardorosti.com) \| 💻 [GitHub](https://github.com/sarshardorosti)    |
-|                       | 📖 [PURE Profile](https://pure.ulster.ac.uk/en/persons/sarshar-dorosti) \| ✉️ dorosti-s@ulster.ac.uk |
+| 📬 **Contact**        | 🌐 [Website](https://www.sarshardorosti.com)  💻 [GitHub](https://github.com/sarshardorosti)  \| 📖 [PURE Profile](https://pure.ulster.ac.uk/en/persons/sarshar-dorosti)  |
