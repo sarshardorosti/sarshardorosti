@@ -7,20 +7,11 @@
 
 ---
 
-## 🌱 Learning  
-- EEG/ECG Data Analysis | Unity & Unreal Engine | Generative Systems  
-
-## 👯 Collaboration Interests  
-- **Interactive BCI & HCI Projects** | **Therapeutic VR Applications**  
-
-## 🤔 Looking for Help With  
-- Real-time **EEG/ECG Integration** | **Generative AI Models**  
-
----
-
-## 💬 Ask Me About  
+## 💬 Ask Me About  / 🤔 Looking for Help With  / 👯 Collaboration Interests  
 - AI in Neuroscience | Serious Games | Adaptive XR Systems  
-
+- **Interactive BCI & HCI Projects** | **Therapeutic VR Applications**  
+- Real-time **EEG/ECG Integration** | **Generative AI Models**
+  
 ---
 
 ## 🛠️ Skills  
