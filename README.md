@@ -3,9 +3,7 @@
 **PhD Researcher** @ Ulster University | **AI**, **BCI**, **HCI**, and **XR** Enthusiast  
 🎓 **Education**:  
 - **PhD**: Immersive Generative Environments, Ulster University (2024-2027)  
-- **MSc AI**: Bournemouth University (Distinction)  
-- **MA Animation**: Tehran University (Distinction)  
-- **BA Architecture**: Kamalolmolk University  
+- **MSc Artificial intelligence**, **MA Animation**, **BA Architecture**
 
 ---
 
