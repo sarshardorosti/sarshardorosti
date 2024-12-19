@@ -9,5 +9,5 @@
 | 💬 **Expertise**      | AI in Neuroscience \| Serious Games \| Therapeutic VR <br> BCI/HCI Projects \| EEG/ECG Integration \| Generative AI |
 | 🛠️ **Programming**    | Python, C#, MATLAB                                                                              |
 | 🛠️ **Tools**          | Unity, Unreal Engine, EEG Devices, VR Headsets, TouchDesigner, Cinema4d                         |
-| ⚡ **Fun Fact**       | Table Tennis 🏓 \| Chess ♟️ \| Mental Strategies                                              |
+| ⚡ **Fun Fact**       | Table Tennis 🏓 \| Chess ♟️ \                                                                  |
 | 📬 **Contact**        | 🌐 [Website](https://www.sarshardorosti.com)  💻 [GitHub](https://github.com/sarshardorosti)  \| 📖 [PURE Profile](https://pure.ulster.ac.uk/en/persons/sarshar-dorosti)  |
