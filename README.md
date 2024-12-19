@@ -10,4 +10,4 @@
 | 🛠️ **Programming**    | Python, C#, MATLAB                                                                              |
 | 🛠️ **Tools**          | Unity, Unreal Engine, EEG Devices, VR Headsets, TouchDesigner, Cinema4d                         |
 | ⚡ **Fun Fact**       | Table Tennis 🏓 \| Chess ♟️                                                                    |
-| 📬 **Contact**        | 🌐 [Website](https://www.sarshardorosti.com)  💻 [GitHub](https://github.com/sarshardorosti)  \| 📖 [PURE Profile](https://pure.ulster.ac.uk/en/persons/sarshar-dorosti)  |
+| 📬 **Contact**        | 🌐 [Website](https://pure.ulster.ac.uk/en/persons/sarshar-dorosti)  💻 [GitHub](https://github.com/sarshardorosti)  \| 📖 [PURE Profile](https://pure.ulster.ac.uk/en/persons/sarshar-dorosti)  |
