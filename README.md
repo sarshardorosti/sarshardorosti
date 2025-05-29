@@ -5,7 +5,7 @@
 
 | **Category**         | **Details**                                                                                      |
 |-----------------------|--------------------------------------------------------------------------------------------------|
-| 🎓 **Education**      | **PhD**: Immersive XR Systems (2024–2027) \| EEG/ECG, Fractals, Memory <br> **MSc AI** (Distinction) \| **MA Animation** (Distinction) \| **BA Architecture** |
+| 🎓 **Education**      | **PhD**: Multimodal XR \| EEG/ECG, Memory <br> **MSc AI** ImmersiveDepth: Hybrid Depth and Geometry (Distinction) \| **MA Animation** EEG Neural Synchronization Using Fractal Animations (Distinction) \| **BA Architecture** Physio-Behavioral Interactive Home Design (Distinction) |
 | 💬 **Expertise**      | AI in Neuroscience \| Serious Games \| Therapeutic VR <br> BCI/HCI Projects \| EEG/ECG Integration \| Generative AI |
 | 🛠️ **Programming**    | Python, C#, MATLAB                                                                              |
 | 🛠️ **Tools**          | Unity, Unreal Engine, EEG Devices, VR Headsets, TouchDesigner, Cinema4d                         |
